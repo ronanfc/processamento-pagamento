@@ -5,7 +5,7 @@ return [
     'documentations' => [
         'default' => [
             'api' => [
-                'title' => 'API Assinaturas Streaming',
+                'title' =>  env('APP_NAME', 'Laravel'),
             ],
 
             'routes' => [

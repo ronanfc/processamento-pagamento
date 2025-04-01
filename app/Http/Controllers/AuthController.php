@@ -9,7 +9,7 @@
 
     /**
      * @OA\Info(
-     *     title="Processo de paagamento",
+     *     title="Processo de pagamento",
      *     version="1.0.0"
      * )
      *
